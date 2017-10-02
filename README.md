@@ -1,4 +1,4 @@
-El programa estadístico R provee herramientas útiles para la visualización de datos. El Instituto de Estadísticas de Puerto Rico crea ciertos indicadores utilizando información de varias agencias públicas, federales o creación interna. Estos indicadores están hechos para la creación de series de tiempo. Puede visitar nuestra base de datos "free source" indicadores.pr
+El programa estadístico R provee herramientas útiles para la visualización de datos. El Instituto de Estadísticas de Puerto Rico crea ciertos indicadores utilizando información de varias agencias públicas, federales o creación interna. Estos indicadores están hechos para la creación de series de tiempo. Puede visitar nuestra base de datos "free source" https://indicadores.pr/
 
 Para empezar:
 1. Si aún no tiene instalado el programa de R, Instale la última versión de R o RStudio en su computadora:
