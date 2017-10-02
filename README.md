@@ -1,1 +1,1 @@
-# Creado con el propósito de crear series de tiempo con indicadores de Puerto Rico.
+El programa estadístico R provee herramientas útiles para la visualización de datos. El Institutdo de Estadisticas de Puerto Rico crea ciertos indicadores para puerto rico utilizando información de varias agencias públicas, federales o creación interna. Estos indicadores están hechos para la creación de series de tiempo. Puede visitar nuestra base de datos "free source" indicadores.pr
